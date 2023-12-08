@@ -1,8 +1,8 @@
 # siiieyy.github.io
 
-###Main Information
+### Main Information
 Christian Al C. Niemo
 3rd Year CpE Student
 
-###Other Details
+### Other Details
 MSC TIPQC - Secretary
