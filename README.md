@@ -7,4 +7,4 @@ Christian Al C. Niemo
 
 
 ### Other Details
-MSC TIPQC - Secretary
+MSC TIPQC - Secretary SY 2023-2024
